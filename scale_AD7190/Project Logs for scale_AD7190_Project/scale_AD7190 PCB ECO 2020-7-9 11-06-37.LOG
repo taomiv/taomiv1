@@ -1,0 +1,28 @@
+Added Component: Designator=J1(HDR2X11_CEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SCLK1 Pin=J1-1
+Added Pin To Net: NetName=DIN1 Pin=J1-2
+Added Pin To Net: NetName=DOUT1 Pin=J1-3
+Added Pin To Net: NetName=SCLK2 Pin=J1-4
+Added Pin To Net: NetName=DIN2 Pin=J1-5
+Added Pin To Net: NetName=DOUT2 Pin=J1-6
+Added Pin To Net: NetName=C\S\1 Pin=J1-7
+Added Pin To Net: NetName=C\S\2 Pin=J1-8
+Added Pin To Net: NetName=S\Y\N\C\1 Pin=J1-9
+Added Pin To Net: NetName=S\Y\N\C\2 Pin=J1-10
+Added Pin To Net: NetName=AGND Pin=J1-11
+Added Pin To Net: NetName=SCLK3 Pin=J1-12
+Added Pin To Net: NetName=DIN3 Pin=J1-13
+Added Pin To Net: NetName=DOUT3 Pin=J1-14
+Added Pin To Net: NetName=SCLK4 Pin=J1-15
+Added Pin To Net: NetName=DIN4 Pin=J1-16
+Added Pin To Net: NetName=DOUT4 Pin=J1-17
+Added Pin To Net: NetName=C\S\3 Pin=J1-18
+Added Pin To Net: NetName=C\S\4 Pin=J1-19
+Added Pin To Net: NetName=S\Y\N\C\3 Pin=J1-20
+Added Pin To Net: NetName=S\Y\N\C\4 Pin=J1-21
+Added Pin To Net: NetName=GND Pin=J1-22
+Added Member To Class: ClassName=scale_AD7190 Member=Component J1 Header 11X2A

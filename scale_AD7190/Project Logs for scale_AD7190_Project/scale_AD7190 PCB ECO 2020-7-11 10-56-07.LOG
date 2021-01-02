@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=AIN1-2 Pin=TVS1-1
+Removed Pin From Net: NetName=AIN1-1 Pin=TVS1-2
+Removed Pin From Net: NetName=AIN2-2 Pin=TVS2-1
+Removed Pin From Net: NetName=AIN2-1 Pin=TVS2-2
+Removed Pin From Net: NetName=AIN3-2 Pin=TVS3-1
+Removed Pin From Net: NetName=AIN3-1 Pin=TVS3-2
+Removed Pin From Net: NetName=AIN4-2 Pin=TVS4-1
+Removed Pin From Net: NetName=AIN4-1 Pin=TVS4-2
+Added Pin To Net: NetName=AIN1-1 Pin=TVS1-1
+Added Pin To Net: NetName=AIN1-2 Pin=TVS1-2
+Added Pin To Net: NetName=AIN2-1 Pin=TVS2-1
+Added Pin To Net: NetName=AIN2-2 Pin=TVS2-2
+Added Pin To Net: NetName=AIN3-1 Pin=TVS3-1
+Added Pin To Net: NetName=AIN3-2 Pin=TVS3-2
+Added Pin To Net: NetName=AIN4-1 Pin=TVS4-1
+Added Pin To Net: NetName=AIN4-2 Pin=TVS4-2

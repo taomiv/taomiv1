@@ -1,0 +1,32 @@
+Protel Design System Design Rule Check
+PCB File : F:\scale_AD7190\scale_AD7190.PcbDoc
+Date     : 2020/7/13
+Time     : 10:11:30
+
+WARNING: Zero hole size multi-layer pad(s) detected
+   Pad Free-6(815mil,540.199mil) on Multi-Layer on Net GND
+   Pad Free-5(743.937mil,540.199mil) on Multi-Layer on Net AGND
+
+WARNING: Multilayer Pads with 0 size Hole found
+   Pad Free-6(815mil,540.199mil) on Multi-Layer
+   Pad Free-5(743.937mil,540.199mil) on Multi-Layer
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:00
