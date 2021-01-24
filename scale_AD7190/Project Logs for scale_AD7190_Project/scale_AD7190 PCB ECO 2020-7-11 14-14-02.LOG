@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=AGND Pin=C1-6-1
+Removed Pin From Net: NetName=AGND Pin=C1-6-2
+Removed Pin From Net: NetName=AGND Pin=C2-6-1
+Removed Pin From Net: NetName=AGND Pin=C2-6-2
+Removed Pin From Net: NetName=AGND Pin=C3-6-1
+Removed Pin From Net: NetName=AGND Pin=C3-6-2
+Removed Pin From Net: NetName=AGND Pin=C4-6-1
+Removed Pin From Net: NetName=AGND Pin=C4-6-2
+Removed Member From Class: ClassName=scale_AD7190 Member=C1-6
+Removed Member From Class: ClassName=scale_AD7190 Member=C2-6
+Removed Member From Class: ClassName=scale_AD7190 Member=C3-6
+Removed Member From Class: ClassName=scale_AD7190 Member=C4-6

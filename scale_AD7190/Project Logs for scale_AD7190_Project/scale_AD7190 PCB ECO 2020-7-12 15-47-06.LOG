@@ -1,0 +1,12 @@
+Added Component: Designator=R4(0805_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_25819.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25076"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=AGND Pin=R4-2
+Added Member To Class: ClassName=scale_AD7190 Member=Component R4 0Ω
+Added Room: Name=scale_AD7190
